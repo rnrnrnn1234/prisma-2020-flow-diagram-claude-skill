@@ -16,7 +16,7 @@ License: MIT · PRISMA 2020 DOI: [10.1136/bmj.n71](https://doi.org/10.1136/bmj.n
 ## 설치 및 사용 방법
 
 1. [PRISMA_flow_diagram_generator.skill 다운로드](https://github.com/rnrnrnn1234/prisma-2020-flow-diagram-claude-skill/raw/main/PRISMA_flow_diagram_generator.skill)
-2. Claude.ai → 대화창 "+" 클릭 → 스킬 관리 클릭 → "추가" 클릭 → "스킬 업로드" 클릭 → 다운로드 받은 스킬 업로드
+2. Claude.ai → 대화창 "+" 클릭 → 스킬 클릭 → 스킬 관리 클릭 → "추가" 클릭 → "스킬 업로드" 클릭 → 다운로드 받은 스킬 업로드
 3. 대화창에 "+" 클릭 후 스킬 선택 — 입력 폼이 나타남
 4. 검색한 데이터베이스를 체크하고 각각의 검색 건수 입력
 5. 중복 제거 수와 제목/초록 제외 수 입력 — 나머지는 자동 계산
