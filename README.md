@@ -4,7 +4,6 @@
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 ![Claude Skill](https://img.shields.io/badge/Claude-Skill-orange.svg)
-PRISMA 2020 DOI: [10.1136/bmj.n71](https://doi.org/10.1136/bmj.n71)
 
 ## 주요 기능
 
