@@ -2,7 +2,9 @@
 
 문헌고찰을 위한 PRISMA 2020 flow diagram을 Claude 안에서 바로 만들어주는 스킬입니다. 코딩 없이, 대화창에 나타나는 입력 폼에 선별 단계별 숫자만 입력하면 고해상도 PNG와 Word 문서를 받을 수 있습니다.
 
-License: MIT · PRISMA 2020 DOI: [10.1136/bmj.n71](https://doi.org/10.1136/bmj.n71)
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+![Claude Skill](https://img.shields.io/badge/Claude-Skill-orange.svg)
+PRISMA 2020 DOI: [10.1136/bmj.n71](https://doi.org/10.1136/bmj.n71)
 
 ## 주요 기능
 
