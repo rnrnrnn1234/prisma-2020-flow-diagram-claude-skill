@@ -16,7 +16,7 @@
 
 ## 설치 및 사용 방법
 
-1. [PRISMA_flow_diagram_generator.skill 다운로드](https://github.com/rnrnrnn1234/prisma-2020-flow-diagram-claude-skill/commit/10e71bac9ca9839669d2285b7dbd5aa1265f9716)
+1. [PRISMA_flow_diagram_generator.skill 다운로드](https://github.com/rnrnrnn1234/prisma-2020-flow-diagram-claude-skill/raw/main/Ver%202.0_PRISMA_flow_diagram_generator.skill)
 2. Claude.ai → 대화창 "+" 클릭 → 스킬 클릭 → 스킬 관리 클릭 → "추가" 클릭 → "스킬 업로드" 클릭 → 다운로드 받은 스킬 업로드
 3. 대화창에 "+" 클릭 후 스킬 선택 후 Enter — 입력 폼이 나타남
 4. 검색한 데이터베이스를 체크하고 각각의 검색 건수 입력
