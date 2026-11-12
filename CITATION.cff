@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "prisma-2020-flow-diagram-generator: A Claude skill for generating PRISMA 2020 flow diagrams in systematic reviews"
+type: software
+authors:
+  - family-names: Park
+    given-names: Soyeon
+    affiliation: "ANDA Lab, Seoul National University College of Nursing"
+version: "1.0.1"
+date-released: "2026-11-12"
+license: MIT
+repository-code: "https://github.com/rnrnrnn1234/prisma-2020-flow-diagram-claude-skill"
