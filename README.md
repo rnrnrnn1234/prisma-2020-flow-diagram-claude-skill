@@ -4,6 +4,7 @@
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 ![Claude Skill](https://img.shields.io/badge/Claude-Skill-orange.svg)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24157242.svg)](https://doi.org/10.5281/zenodo.24157242)
 
 ## 주요 기능
 
@@ -16,7 +17,7 @@
 
 ## 설치 및 사용 방법
 
-1. [PRISMA_flow_diagram_generator.skill 다운로드](https://github.com/rnrnrnn1234/prisma-2020-flow-diagram-claude-skill/raw/main/Ver%202.0_PRISMA_flow_diagram_generator.skill)
+1. `PRISMA_flow_diagram_generator.skill` 다운로드
 2. Claude.ai → 대화창 "+" 클릭 → 스킬 클릭 → 스킬 관리 클릭 → "추가" 클릭 → "스킬 업로드" 클릭 → 다운로드 받은 스킬 업로드
 3. 대화창에 "+" 클릭 후 스킬 선택 후 Enter — 입력 폼이 나타남
 4. 검색한 데이터베이스를 체크하고 각각의 검색 건수 입력
@@ -28,13 +29,17 @@
 
 연구에 이 도구를 사용하셨다면 PRISMA 2020 원 논문을 인용해 주세요:
 
-Page MJ, McKenzie JE, Bossuyt PM, Boutron I, Hoffmann TC, Mulrow CD, et al. The PRISMA 2020 statement: an updated guideline for reporting systematic reviews. BMJ 2021;372:n71. doi: [10.1136/bmj.n71](https://doi.org/10.1136/bmj.n71)
+> Page MJ, McKenzie JE, Bossuyt PM, Boutron I, Hoffmann TC, Mulrow CD, et al. The PRISMA 2020 statement: an updated guideline for reporting systematic reviews. BMJ 2021;372:n71. doi: 10.1136/bmj.n71
 
-PRISMA 2020 흐름도 양식은 [PRISMA statement](https://www.prisma-statement.org/)가 [크리에이티브 커먼즈 저작자표시(CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) 라이선스로 배포하며, 원 저작물을 올바르게 인용하는 조건으로 배포·수정·활용이 허용됩니다. 이 도구는 해당 양식을 기반으로 한 독립 구현물이며 PRISMA 그룹의 공식 승인을 받은 것은 아닙니다.
+이 스킬 자체를 인용하실 때는 아래 형식을 사용해 주세요(필요시):
+
+> Park S. (2026). prisma-2020-flow-diagram-generator: A Claude skill for generating PRISMA 2020 flow diagrams in systematic reviews (Version 1.0.1) [Computer software]. ANDA Lab, Seoul National University College of Nursing. https://doi.org/10.5281/zenodo.24157242
+
+PRISMA 2020 흐름도 양식은 PRISMA statement가 크리에이티브 커먼즈 저작자표시(CC BY 4.0) 라이선스로 배포하며, 원 저작물을 올바르게 인용하는 조건으로 배포·수정·활용이 허용됩니다. 이 도구는 해당 양식을 기반으로 한 독립 구현물이며 PRISMA 그룹의 공식 승인을 받은 것은 아닙니다.
 
 ## 라이선스
 
-- 소스 코드: MIT License © 2026 Soyeon Park
+- 소스 코드: [MIT License](LICENSE) © 2026 Soyeon Park
 - PRISMA 2020 흐름도 양식 디자인: © PRISMA, CC BY 4.0
 
 ## 제작자
@@ -70,7 +75,7 @@ A Claude skill that generates PRISMA 2020 flow diagrams for systematic reviews d
 
 ## Installation & Usage
 
-1. [Download PRISMA_flow_diagram_generator.skill](https://github.com/rnrnrnn1234/prisma-2020-flow-diagram-claude-skill/raw/main/PRISMA_flow_diagram_generator.skill)
+1. Download `PRISMA_flow_diagram_generator.skill`
 2. In Claude.ai, click "+" in the chat box → Manage skills → Add → Upload skill → upload the downloaded file
 3. Click "+" in the chat box and select the skill — the input form appears
 4. Check the databases you searched and enter the number of records for each
@@ -82,13 +87,17 @@ A Claude skill that generates PRISMA 2020 flow diagrams for systematic reviews d
 
 If you use this tool in your research, please cite the original PRISMA 2020 publication:
 
-Page MJ, McKenzie JE, Bossuyt PM, Boutron I, Hoffmann TC, Mulrow CD, et al. The PRISMA 2020 statement: an updated guideline for reporting systematic reviews. BMJ 2021;372:n71. doi: [10.1136/bmj.n71](https://doi.org/10.1136/bmj.n71)
+> Page MJ, McKenzie JE, Bossuyt PM, Boutron I, Hoffmann TC, Mulrow CD, et al. The PRISMA 2020 statement: an updated guideline for reporting systematic reviews. BMJ 2021;372:n71. doi: 10.1136/bmj.n71
 
-The PRISMA 2020 flow diagram template is distributed by the [PRISMA statement](https://www.prisma-statement.org/) under the [Creative Commons Attribution (CC BY 4.0) license](https://creativecommons.org/licenses/by/4.0/), which permits others to distribute, remix, adapt and build upon the work, provided the original work is properly cited. This tool is an independent implementation built upon that template and is not officially endorsed by the PRISMA group.
+If you wish to cite this skill itself, please use the following format:
+
+> Park S. (2026). prisma-2020-flow-diagram-generator: A Claude skill for generating PRISMA 2020 flow diagrams in systematic reviews (Version 1.0.1) [Computer software]. ANDA Lab, Seoul National University College of Nursing. https://doi.org/10.5281/zenodo.24157242
+
+The PRISMA 2020 flow diagram template is distributed by the PRISMA statement under the Creative Commons Attribution (CC BY 4.0) license, which permits others to distribute, remix, adapt and build upon the work, provided the original work is properly cited. This tool is an independent implementation built upon that template and is not officially endorsed by the PRISMA group.
 
 ## License
 
-- Source code: MIT License © 2026 Soyeon Park
+- Source code: [MIT License](LICENSE) © 2026 Soyeon Park
 - PRISMA 2020 flow diagram template design: © PRISMA, CC BY 4.0
 
 ## Author
