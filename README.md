@@ -33,7 +33,7 @@
 
 이 스킬 자체를 인용하실 때는 아래 형식을 사용해 주세요(필요시):
 
-> Park S. (2026). prisma-2020-flow-diagram-generator: A Claude skill for generating PRISMA 2020 flow diagrams in systematic reviews (Version 1.0.1) [Computer software]. ANDA Lab, Seoul National University College of Nursing. https://doi.org/10.5281/zenodo.24157242
+> Park S., Woo K. (2026). prisma-2020-flow-diagram-generator: A Claude skill for generating PRISMA 2020 flow diagrams in systematic reviews (Version 1.0.1) [Computer software]. ANDA Lab, Seoul National University College of Nursing. https://doi.org/10.5281/zenodo.24157242
 
 PRISMA 2020 흐름도 양식은 PRISMA statement가 크리에이티브 커먼즈 저작자표시(CC BY 4.0) 라이선스로 배포하며, 원 저작물을 올바르게 인용하는 조건으로 배포·수정·활용이 허용됩니다. 이 도구는 해당 양식을 기반으로 한 독립 구현물이며 PRISMA 그룹의 공식 승인을 받은 것은 아닙니다.
 
